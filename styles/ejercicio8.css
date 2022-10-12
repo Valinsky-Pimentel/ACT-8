@@ -1,0 +1,34 @@
+header{
+height: 400px;
+background-color: orange;
+}
+nav{
+height: 75px;
+background: red;
+}
+main{
+margin: 75px 100px 75px 100px;
+height: 500px;
+background: yellow;
+}
+.parent {
+width: auto;
+height: 100px;
+background: green;
+display: flex;
+}
+.relative {
+  margin: 40px 0 0 0;
+  background-color: lime;
+  height: 50%;
+  width: 50%;
+  justify-content: space-around;
+}
+section{
+height: 400px;
+background: gray;
+}
+footer{
+height: 100px;
+background: Black;
+}
